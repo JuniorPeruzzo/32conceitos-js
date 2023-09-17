@@ -345,4 +345,6 @@ O objetivo principal de um namespace é **_evitar a poluição do espaço de nom
 
 -   Módulos
 
-Modulos são pedaços de códigos encapsulados que podem ser importados e expõem alguns métodos que podem ser utilizados.
+Módulos são pedaços de códigos encapsulados que podem ser importados e expõem alguns métodos que podem ser utilizados.
+
+Deixo uma dica de leitura simples e com exemplos para entender a utilização dos módulos no Javascript: https://www.devmedia.com.br/trabalhando-com-modulos-no-javascript/40091
